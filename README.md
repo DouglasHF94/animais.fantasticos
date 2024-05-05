@@ -5,7 +5,7 @@ conhecimento em JavaScript.
 
 ## Preview
 
-<img src="https://github.com/DouglasHF94/animais.fantasticos/animaisFantasticos.png" height="500"/>
+<img src="https://github.com/DouglasHF94/animais.fantasticos/blob/master/animaisFantastico.png" height="500"/>
 
 ## Live link:
 
